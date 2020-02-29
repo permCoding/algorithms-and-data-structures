@@ -12,8 +12,10 @@ class Convert():
         self.num_dec = num_dec
 
     def bin_to_dec_rec(self, b):
-        if 
-            return 
+        # return 0 if len(b) == 0 else int(b[0])*pow(2, len(b)-1) + self.bin_to_dec_rec(b[1:])
+        if len(b) == 0:
+            return 0
         else:
-            return 
+            return int(b[0])*pow(2, len(b)-1) + self.bin_to_dec_rec(b[1:])
+        
 
