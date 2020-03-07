@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-
 # ((1* 2 + 1)* 2 + 0)* 2 + 1 = 13
 # 11 0 1
 
@@ -17,6 +16,18 @@ def to_dec(b):
       d += int(b[i]) * 2** (len(b)-1-i)  
    return d
 
-b = str(input())
-print(to_dec(b))
-print(to_dec_rec(b))
+def to_bin(d):
+   b = ''
+   while d > 0:
+      b = str(d%2) + b
+      d //= 2
+   return b
+
+def to_bin_rec():
+   return '110'
+
+# b = str(input())
+# print(to_dec(b))
+# print(to_dec_rec(b))
+d = 14
+print(to_bin(d))
