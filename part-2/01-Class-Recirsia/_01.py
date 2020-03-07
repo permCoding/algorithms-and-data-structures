@@ -5,17 +5,11 @@ from _module import Convert
 
 obj1 = Convert('11000')
 obj2 = Convert(17)
+obj3 = Convert()
 
-print(obj1.dec)
-print(obj2.bin)
+lst = [obj1, obj2, obj3]
 
-
-# obj1.dec = 29
-# obj1.to_bin()
-# print(obj1.bin)
+for item in lst:
+   print(item)
 
 
-# d = 13
-
-# print(obj1.to_bin(d))
-# print(obj2.to_bin_rec(d))
