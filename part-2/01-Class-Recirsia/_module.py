@@ -1,8 +1,12 @@
 class Convert():
 
-    def __init__(self, d = 0):
-        self.dec = d
-        self.bin = self.to_bin()
+    def __init__(self, par):
+        if type(par) == int:
+            self.dec = par
+            self.bin = self.to_bin()
+        else:
+            self.bin = par
+            self.dec = self.to_dec()
 
     def to_dec_rec(self, b):
         if b == '':

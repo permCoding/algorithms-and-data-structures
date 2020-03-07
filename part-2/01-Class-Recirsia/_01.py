@@ -3,9 +3,10 @@
 
 from _module import Convert
 
-obj1 = Convert()
-obj2 = Convert(15)
+obj1 = Convert('11000')
+obj2 = Convert(17)
 
+print(obj1.dec)
 print(obj2.bin)
 
 
