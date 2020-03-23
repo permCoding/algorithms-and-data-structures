@@ -38,6 +38,11 @@ __Беляков Андрей Юрьевич__
 Можно не устанавливать к себе Питон и Среду разработки, а работать он-лайн тут: https://repl.it  
 Там создавать реплы и писать на любом языке, включая и Питон.  
 
+Некоторые мои видео в помощь:  
+[Пример работы с программами на Питоне в repl.it](https://www.youtube.com/watch?v=CeIJqd1spDk&list=PL2PI4EDhLXoz6rZxEIFQkmhoGD_nmEUqi&index=23&t=1555s)  
+[Меняем значения двух переменных](https://www.youtube.com/watch?v=gsdyjDg4w-g&list=PL2PI4EDhLXoz6rZxEIFQkmhoGD_nmEUqi&index=13&t=0s)  
+[Длинная арифметика в Питоне](https://www.youtube.com/watch?v=1tdMfGiQXd8&list=PL2PI4EDhLXoz6rZxEIFQkmhoGD_nmEUqi&index=10&t=121s)  
+
 ---  
 ---  
 
