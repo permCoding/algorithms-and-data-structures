@@ -5,6 +5,7 @@ __Беляков Андрей Юрьевич__
 - мои контакты:  
 [VK: permcube](https://vk.com/permcube)  
 [Telegram: @AndreyPerm](https://t.me/AndreyPerm)  
+Там отвечаю на вопросы по прохождению дисциплины...  
 
 ---  
 
