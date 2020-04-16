@@ -1,5 +1,4 @@
 import tkinter as tk
-import random as rnd
 from init import *
 
 
