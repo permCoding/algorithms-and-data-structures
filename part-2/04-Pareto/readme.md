@@ -39,6 +39,7 @@ _часть 3:_
 * разметка markdown  
 * без клиента (добавить, удалить, расшарить)  
 
+[как расшарить](https://pcoding.ru/pdf/shareGit.pdf)  
 [Разметка markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)  
 [сайт на гите](https://permcoding.github.io/)  
 [пример с разметкой](http://speedcoding.ru/)  
