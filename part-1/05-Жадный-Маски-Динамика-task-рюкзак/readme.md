@@ -9,3 +9,9 @@
 * example-4-csv - Динамика (данные из csv-файлов)  
 
 ---  
+
+Лекция "Задача о рюкзаке": https://slidr.io/permCoding/algorithm-backpack  
+
+---  
+
+

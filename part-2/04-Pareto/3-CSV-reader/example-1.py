@@ -1,12 +1,16 @@
 import csv  # CSV - Comma Separated Values - Значения, Разделенные Запятыми
+# читаем csv и сразу выводим
 
-def csv_reader(file):
+
+def print_data(file):
     reader = csv.reader(file, delimiter = ';')
     for row in reader:
+        # print(row) # список
         print(' '.join(row))
 
 
 name_file = 'smartphones.csv'
+
 list_smartphones = []
 with open(name_file, 'r') as file:
-    csv_reader(file)
+    print_data(file)
