@@ -31,3 +31,8 @@ __Практические задачи:__
 8  
 
 ---  
+
+[Разметка markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)  
+
+---  
+
