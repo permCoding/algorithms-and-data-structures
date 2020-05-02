@@ -23,3 +23,4 @@ with open(name_file_writer, 'w', newline='') as file:
         dct['price'] = obj.price
         writer.writerow(dct)
 
+# pass
