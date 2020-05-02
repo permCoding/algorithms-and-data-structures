@@ -6,8 +6,8 @@ name_file = 'smartphones.csv'
 
 with open(name_file) as file:
     reader = csv.DictReader(file, delimiter=';')
-    for row in reader:
-        # print(row)
-        print(row['name'], row['power'], row['price'])
+    for dct in reader:
+        # print(dct)
+        print(dct['name'], dct['power'], dct['price'])
     
 

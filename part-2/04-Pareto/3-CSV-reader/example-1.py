@@ -1,5 +1,6 @@
 import csv  # CSV - Comma Separated Values - Значения, Разделенные Запятыми
 # читаем csv и сразу выводим
+# pip3 install csv
 
 
 def print_data(file):
@@ -14,3 +15,5 @@ name_file = 'smartphones.csv'
 list_smartphones = []
 with open(name_file, 'r') as file:
     print_data(file)
+
+pass
